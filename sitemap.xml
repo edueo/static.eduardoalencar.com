@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://eduardoalencar.com/cv/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/sobre-mim/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/posts/apenas-comece/</loc>
+    <lastmod>2020-06-19T16:48:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/categories/categoria1/</loc>
+    <lastmod>2020-06-19T16:48:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/categories/</loc>
+    <lastmod>2020-06-19T16:48:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/</loc>
+    <lastmod>2020-06-19T16:48:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/posts/</loc>
+    <lastmod>2020-06-19T16:48:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/tags/tag1/</loc>
+    <lastmod>2020-06-19T16:48:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/tags/tag2/</loc>
+    <lastmod>2020-06-19T16:48:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eduardoalencar.com/tags/</loc>
+    <lastmod>2020-06-19T16:48:16-03:00</lastmod>
+  </url>
+  
+</urlset>
